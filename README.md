@@ -1,5 +1,7 @@
 # Git and Docker Starter Application
 
+My last name is Nic
+
 This repository contains a small Python web application used to practice Git, GitHub, and Docker workflows.
 
 ## Application
